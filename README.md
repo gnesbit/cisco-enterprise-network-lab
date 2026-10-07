@@ -73,6 +73,7 @@ These commands were used to verify interface status, VLAN membership, trunking, 
 
 - `enterprise-network-hsrp-lab.pkt` — Cisco Packet Tracer lab
 - `enterprise-network-topology.png` — Network topology diagram
+-  `enterprise-network-hsrp-configurations.txt` — Complete R1, R2, S1, S2, and ISP configurations with verification commands
 
 ## Skills Demonstrated
 
